@@ -1,0 +1,33 @@
+.header {
+  width: 100vw;
+  text-align: center;
+  background-color: red;
+  color: white;
+  font-size: 5rem;
+}
+.content {
+  width: 60vw;
+  text-align: center;
+  background-color: blue;
+  color: white;
+  font-size: 5rem;
+  float: left;
+}
+.sidebar {
+  float: right;
+  width: 40vw;
+  text-align: center;
+  background-color: yellow;
+  color: white;
+  font-size: 5rem;
+  
+}
+.footer {
+  float: right;
+  width: 100vw;
+  text-align: center;
+  background-color: green;
+  color: white;
+  font-size: 5rem;
+  
+}
